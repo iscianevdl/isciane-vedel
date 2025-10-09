@@ -12,8 +12,11 @@
     <nav>
       <h1>[Ton Nom]</h1>
       <ul>
-        <li><a href="info">Infos</a></li>
-        <li><a href="work" class="active">Projets</a></li>
+        <li><a href="info.html" class="active">Infos</a></li>
+        <li><a href="work.html">Projets</a></li>
+<li><a href="https://www.linkedin.com/notifications/?filter=all">linkedin</a></li>
+<li><a href="https://www.instagram.com/iscianevedel/">instagram</a></li>
+<li><a href="https://www.artstation.com/iscianevedel">artstation</a></li>
       </ul>
     </nav>
   </header>
