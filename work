@@ -10,10 +10,10 @@
 <body>
   <header>
     <nav>
-      <h1><a href="info.html">[Ton Nom]</a></h1>
+      <h1>[Ton Nom]</h1>
       <ul>
-        <li><a href="info.html">Infos</a></li>
-        <li><a href="work.html" class="active">Projets</a></li>
+        <li><a href="info">Infos</a></li>
+        <li><a href="work" class="active">Projets</a></li>
       </ul>
     </nav>
   </header>
